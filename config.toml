@@ -1,0 +1,5 @@
+baseURL = "https://gardenercity6.vercel.app"
+languageCode = "en-us"
+title = "Centre Garden City"
+theme = "tale-hugo-master"
+
